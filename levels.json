@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Variabili",
+        "instructions": "Crea una variabile chiamata 'x' e assegnale il valore 5.",
+        "valid_answers": ["x=5", "x =5", "x= 5", "x = 5 "]
+    },
+    {
+        "title": "Condizioni",
+        "instructions": "Scrivi un if che controlla se x e' maggiore di 3.",
+        "valid_answers": ["if x>3:", "if x >3:", "if x> 3:", "if x > 3:"]
+    },
+    {
+        "title": "Cicli",
+        "instructions": "Crea un ciclo che stampa i numeri da 1 a 5.",
+        "valid_answers": ["for i in range(1,6):", "for i in range(1, 6):", "for i in range(1, 6) :"]
+    },
+    {
+        "title": "Funzioni",
+        "instructions": "Crea una funzione chiamata 'saluta' che stampa 'Ciao'.",
+        "valid_answers": [
+            "def saluta():\n    print('Ciao')",
+            "def saluta():\n    print('Ciao') "
+        ]
+    },
+    {
+        "title": "Stringhe",
+        "instructions": "Crea una stringa chiamata 'nome' con il valore 'Mario'.",
+        "valid_answers": ["nome='Mario'", "nome = 'Mario'", "nome = 'Mario' "]
+    },
+    {
+        "title": "Liste",
+        "instructions": "Crea una lista chiamata 'numeri' con i valori 1, 2, 3.",
+        "valid_answers": ["numeri=[1,2,3]", "numeri = [1,2,3]", "numeri=[1, 2, 3]"]
+    }
+]
